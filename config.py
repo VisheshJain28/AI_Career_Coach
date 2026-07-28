@@ -1,0 +1,7 @@
+UPLOAD_FOLDER = "uploads"
+
+VECTOR_DB = "vector_index"
+
+CHUNK_SIZE = 1000
+
+CHUNK_OVERLAP = 150
